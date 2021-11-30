@@ -10,10 +10,10 @@
 }
 
 .body1{
-  background-image: url("https://w.wallhaven.cc/full/9m/wallhaven-9mg95k.jpg")
+  background-image: url("https://w.wallhaven.cc/full/9m/wallhaven-9mg95k.jpg");
 }
 .body2{
-  background-image: url("https://images.wallpaperscraft.ru/image/single/babochka_poverkhnost_derevyannyj_116623_1600x1200.jpg")
+  background-image: url("https://images.wallpaperscraft.ru/image/single/babochka_poverkhnost_derevyannyj_116623_1600x1200.jpg");
 }
 .hr1 {
   border-style: none;
@@ -132,7 +132,7 @@ span{
     height: 200px;
     width: 2000px;
     border: 10px solid gold;
-    background-image: url("https://w.wallhaven.cc/full/1k/wallhaven-1k2g1v.jpg")
+    background-image: url("https://w.wallhaven.cc/full/1k/wallhaven-1k2g1v.jpg");
   }
 
   .flex-item-4{
@@ -140,20 +140,20 @@ span{
     height: 250px;
     width: 300px;
     border: 10px solid gold;
-    background-image: url("https://w.wallhaven.cc/full/3z/wallhaven-3z2rj6.jpg")
+    background-image: url("https://w.wallhaven.cc/full/3z/wallhaven-3z2rj6.jpg");
   }
   .flex-item-5{
     height: 200px;
     width: 200px;
     border: 10px solid gold;
-    background-image: url("https://w.wallhaven.cc/full/28/wallhaven-282o1m.jpg")
+    background-image: url("https://w.wallhaven.cc/full/28/wallhaven-282o1m.jpg");
   }
   .flex-item-6{
       justify-content:  center;
       height: 200px;
       width: 1500px;
       border: 10px solid gold;
-      background-image: url("https://w.wallhaven.cc/full/1k/wallhaven-1k2g1v.jpg")
+      background-image: url("https://w.wallhaven.cc/full/1k/wallhaven-1k2g1v.jpg");
     }
  .flex-item-7{
         justify-content:  center;
@@ -211,7 +211,7 @@ font-family: "Stella", fantasy;
   border: 10px solid #ece89d;
   width: 200px;
   height: 100px;
-  background-image: url("https://w.wallhaven.cc/full/v9/wallhaven-v9gv2l.jpg")
+  background-image: url("https://w.wallhaven.cc/full/v9/wallhaven-v9gv2l.jpg");
 }
 .block2{
   justify-content: center;
